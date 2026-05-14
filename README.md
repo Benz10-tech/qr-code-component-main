@@ -24,8 +24,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://gleaming-salamander-a99af5.netlify.app/)
+- Solution URL: [https://github.com/Benz10-tech/qr-code-component-main.git](https://github.com/Benz10-tech/qr-code-component-main.git)
+- Live Site URL: [https://gleaming-salamander-a99af5.netlify.app/](https://gleaming-salamander-a99af5.netlify.app/)
 
 ## My process
 
